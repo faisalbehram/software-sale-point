@@ -134,7 +134,6 @@ Now Ui Kit Angular
 │   │       ├── now-ui-kit
 │   │       └── now-ui-kit.scss
 │   ├── environments
-│   ├── favicon.ico
 │   ├── index.html
 │   ├── main.ts
 │   ├── polyfills.ts
