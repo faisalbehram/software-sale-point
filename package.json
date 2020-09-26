@@ -2,8 +2,8 @@
   "name": "now-ui-kit-angular",
   "version": "1.2.0",
   "scripts": {
+    "start": "node server.js",
     "ng": "ng",
-    "start": "ng serve",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
